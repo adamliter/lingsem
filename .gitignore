@@ -1,0 +1,29 @@
+# Ignore .DS_Store from Mac OS
+*.DS_Store
+
+# Ignore auto-save files from Emacs
+*.*~
+\#*.*\#
+
+# Ignore superfluous (La)TeX files
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.pdf
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
